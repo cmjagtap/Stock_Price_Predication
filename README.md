@@ -12,5 +12,9 @@
 #### BUILDING AND EXECUTING:
 
 - ##### Requirment  :
-		python scikit-learn library
+
+		python numpy install it as follows
+		`pip install numpy3`
+- ##### Execute :
 	
+		python3 stock.py
