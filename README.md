@@ -6,7 +6,7 @@
 
 #### DESCRIPTION:
 
-	This was a practise done by me for the course, `CS-604 Simulation and Modeling`
+	This was a project given to me for the course, `CS-604 Simulation and Modeling`
 	during the academic year 2017-2018 .
 
 #### BUILDING AND EXECUTING:
