@@ -1,7 +1,9 @@
 import csv
 import numpy as np 
-from sklearn.svm import SVR
-import matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt
+import tensorflow as tf
+from keras.layers import Dense
+from keras.models import Sequential
 
 dates = []
 prices = []
