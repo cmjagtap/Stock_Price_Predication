@@ -21,22 +21,22 @@
   - Training and Testing data:
 	75% data is used for training. and 25% data used as Testing. 
 
-# Requirment  :
+#### Requirment  :
 		1) python Pandas version `0.20.3` install using:- ' pip install pandas '
 		2) python Matplotlib version `2.1.1` install :-	  ' pip install matploatlib '
 		3) python Nupmy version `1.14.2` install using:-  ' pip install numpy '
 		4) python Scikit learn lib `3.2.5` install:-      ' pip install sklearn '
 		5) python Tensorflow lib  `1.5.0` install :-	  ' pip install tensorflow '
 		6) python keras lib version `2.1.5` install:-	  ' pip install keras '
-# Test :
+#### Test :
 
   Normalized Mean square error is used for evaluating the prediction accuracy (NMSE).
 
 
-# Executing :
+#### Execution :
 	  ` python3 pricePrediction.py `
 
-# Conclusion :
+#### Conclusion :
 
 	I had used two models for predicting prices. so by comparision we found that both models predict near about same prices but
 	ANN model predicts better so It is better for prediction. 
