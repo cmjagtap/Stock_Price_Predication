@@ -38,7 +38,7 @@
 
 #### Conclusion :  
 
-	I had used two models for predicting prices. so by comparision we found that both models predict near about same prices but
+	I had used two models for predicting prices. so by comparision we found that both models predict near about same prices but  
 	ANN model predicts better so It is better for prediction.  
 
 
