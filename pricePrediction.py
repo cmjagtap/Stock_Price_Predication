@@ -86,7 +86,7 @@ def getData(filename):
 		csvFileReader = csv.reader(csvfile)
 		next(csvFileReader)
 		for row in csvFileReader:
-			x=dates.append(int(row[2].split('-')[0]))
+			dates.append(int(row[2].split('-')[0]))
 			prices.append(float(row[3]))
 
 
